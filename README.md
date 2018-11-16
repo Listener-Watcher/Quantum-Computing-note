@@ -8,16 +8,19 @@ measurement
 Number system:
 Real(R)->comlex(C)->Quaternion(H)->Octonion(O)
 
-Computation model:
+Algebraic structure:
+TBD
+
+Projection(example of boat):
 TBD
 
 Linear Algebra:
 TBD
 
-No-leak == equi-angularity :
+Computation model:
 TBD
 
-Projection(example of boat):
+No-leak == equi-angularity :
 TBD
 
 reference:
