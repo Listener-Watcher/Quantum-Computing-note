@@ -9,8 +9,11 @@ Number system:
 Real(R)->comlex(C)->Quaternion(H)->Octonion(O)
 
 Algebraic structure:
-TBD
+a structure consisting of set with a binary operation which follows certain requirements(closure,associative,identity,ivertible)
 
+Hilbert space:
+https://en.wikipedia.org/wiki/Hilbert_space
+http://mathworld.wolfram.com/HilbertSpace.html
 Projection(example of boat):
 TBD
 
@@ -24,4 +27,7 @@ No-leak == equi-angularity :
 TBD
 
 reference:
-TBD
+https://ieeexplore.ieee.org/document/6812822
+https://ieeexplore.ieee.org/document/7894533
+https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=Quantum%20Computing
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7044953
