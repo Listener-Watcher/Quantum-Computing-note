@@ -31,3 +31,6 @@ https://ieeexplore.ieee.org/document/6812822
 https://ieeexplore.ieee.org/document/7894533
 https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=Quantum%20Computing
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7044953
+
+Simon's problem example
+https://www.cs.vu.nl/~tcs/ac/ac-11_simon_algorithm.pdf
